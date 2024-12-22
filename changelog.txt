@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+  Major Features:
+    - Migrated assets from [Wooden Industry](https://mods.factorio.com/mod/wood-industry)
+    - Migrated assets from [Wooden Logistics](https://mods.factorio.com/mod/wood-logistics)
+    - Migrated assets from [Wooden Military](https://mods.factorio.com/mod/wood-military)
