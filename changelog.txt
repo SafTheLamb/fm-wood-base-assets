@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+  Minor Features:
+    - Add heavy oil adsorption icon
+
+---------------------------------------------------------------------------------------------------
 Version: 1.0.0
   Major Features:
     - Migrated assets from [Wooden Industry](https://mods.factorio.com/mod/wood-industry)
